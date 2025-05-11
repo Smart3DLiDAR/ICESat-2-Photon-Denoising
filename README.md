@@ -5,7 +5,7 @@ More detailed information about modifying the code can be found in the article "
 
 If you use this code, please remember to cite this paper.
 
-#Code structure
+# Code structure
 
 Data Access and Download：This directory contains Python files for data access and download, mainly improved based on the Python download code provided by NASA.
 
