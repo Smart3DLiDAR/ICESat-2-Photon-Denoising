@@ -19,6 +19,6 @@ Photon_Denoising: This directory contains basic functional code related to photo
 
 Sample : This directory holds the test data in '.xlsx' format.
 
-Result : This directory stores the modeling results of the test data.
+Result : This directory stores the denoising results of the test data.
 
 The code is written in Matlab R2023a and Python 3.13.
