@@ -17,7 +17,7 @@ h5_data: The directory contains the provided ICESat-2  data, including ATL03 and
 
 Photon_Denoising: This directory contains basic functional code related to photon noise removal, including the Douglas–Peucker algorithm, basic functional code for Minpts calculation, and basic functional code for photon ellipse counting.
 
-Sample : This directory holds the test data in '.csv' format.
+Sample : This directory holds the test data in '.xlsx' format.
 
 Result : This directory stores the modeling results of the test data.
 
