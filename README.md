@@ -1,5 +1,5 @@
 # ICESat-2-Photon-Denoising
-This code is a method for progressive noise photon removal from ICESat-2 data based on different types of noise characteristics; this method includes three main steps: ⅰ) Isolated noise photons removal based on a multi-thresholding strategy, ⅱ) Adaptive calculation of terrain slopes and removal of low-density clustered noise photons, and  ⅲ) Outer clustered noise photons removal based on the box plots analysis.
+This code provides an implementation of a progressive denoising algorithm for ICESat-2 photon data, which systematically removes noise photons by leveraging the unique characteristics of various noise types; this method includes three main steps: ⅰ) Isolated noise photons removal based on a multi-thresholding strategy, ⅱ) Adaptive calculation of terrain slopes and removal of low-density clustered noise photons, and  ⅲ) Outer clustered noise photons removal based on the box plots analysis.
 
 More detailed information about the algorithm and code implementation can be found in the article “Progressive noise photons removal from ICESAT-2 data based on the characteristics of different types of noise” by Hui et al. (2025), published in GIScience & Remote Sensing (Vol. 62, Issue 1).
 
