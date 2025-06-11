@@ -3,8 +3,7 @@ This code provides an implementation of a progressive denoising algorithm for IC
 
 More detailed information about the algorithm and code implementation can be found in the article “Progressive noise photons removal from ICESAT-2 data based on the characteristics of different types of noise”.To link to this article:  https://doi.org/10.1080/15481603.2025.2507985
 
-If you use this code, please be sure to cite the following paper:
-Zhenyang Hui, Li Zhang, Shuanggen Jin, Wenbo Chen, Penggen Cheng & Yao Yevenyo Ziggah (2025) Progressive noise photons removal from ICESAT-2 data based on the characteristics of different types of noise, GIScience & Remote Sensing, 62:1, 2507985, DOI:10.1080/15481603.2025.2507985
+If you use this code, please be sure to cite the following paper:Zhenyang Hui, Li Zhang, Shuanggen Jin, Wenbo Chen, Penggen Cheng and Yao Yevenyo Ziggah Ziggah. Progressive noise photons removal from ICESAT-2 data based on the characteristics of different types of noise, GIScience & Remote Sensing, 2025, 62 (1), 2507985. doi: 10.1080/15481603.2025.2507985. 
 
 
 
